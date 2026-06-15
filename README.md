@@ -14,3 +14,5 @@ Built using Tableau, Python, and SQL.
 - Compared country-specific metrics against global benchmarks
 - Integrated multi-source datasets using Python and SQL
 - Generated Top-10 deployment candidate rankings
+
+<img width="2000" height="1600" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f086bb85-0289-463b-b419-4e1298788717" />
